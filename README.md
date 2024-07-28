@@ -4,7 +4,7 @@
 
 <h1>Info ℹ️</h1>
 
-- 📫 email: jaredmontoya@i2pmail.org
+- 📫 email: <jaredmontoya@i2pmail.org>
 
 <h1> 🧰 Skills: </h1>
 
